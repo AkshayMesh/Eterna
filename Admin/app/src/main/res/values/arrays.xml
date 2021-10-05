@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="emotions">
+        <item>All</item>
+        <item>Smile</item>
+        <item>Sad</item>
+        <item>Happy</item>
+        <item>Normal</item>
+    </array>
+</resources>
