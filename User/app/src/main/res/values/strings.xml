@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Eterna</string>
+    <string name="title_activity_sub">SubActivity</string>
+    <string name="tab_text_1">Videos</string>
+    <string name="tab_text_2">Quotes</string>
+    <string name="presented_by">Developed By</string>
+    <string name="developer_name">GR - 12</string>
+    <string name="login">Login</string>
+    <string name="login_desc">Live with eternal happiness</string>
+
+    <!--Transitions-->
+    <string name="app_transition">appName</string>
+    <string name="logo_transition">logoImage</string>
+    <string name="default_client_token">120311272329-q418iovammhmpqvfdrpal02quboafa30.apps.googleusercontent.com</string>
+
+    <array name="emotions">
+        <item>Select Emotion</item>
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Funny</item>
+        <item>Normal</item>
+        <item>Crazy</item>
+        <item>Motivational</item>
+    </array>
+</resources>

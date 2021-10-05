@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.activity.TermsConditions">
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="vertical"
+      android:padding="20dp">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:text="Eterna Terms of Service"
+        android:textColor="@color/black"
+        android:fontFamily="@font/cabin_semibold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control."
+        android:justificationMode="inter_word"
+        android:fontFamily="sans-serif"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:text="The Terms and conditions are meant to help you understand under which conditions we provide you services."
+        android:justificationMode="inter_word"
+        android:fontFamily="sans-serif"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold"
+        android:maxWidth="300dp"
+        android:text="Content you see and share"
+        android:textColor="@color/black"
+        android:fontFamily="sans-serif"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:text="- We do not claim that all the videos you watch on this application are our content."
+        android:fontFamily="sans-serif"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="- Sharing the videos is on your own risk of copy right."
+        android:fontFamily="sans-serif"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="- This application does not provide any feature to share videos."
+        android:fontFamily="sans-serif"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="- You can only watch videos and show to others using this application only."
+        android:fontFamily="sans-serif"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="- The quotes you share are also not claimed content of this application."
+        android:fontFamily="sans-serif"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="- You may share quotes on your own risk of copyright."
+        android:fontFamily="sans-serif"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold"
+        android:maxWidth="300dp"
+        android:text="Ads and Payments"
+        android:textColor="@color/black"
+        android:fontFamily="sans-serif"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:text="- This app contains ads."
+        android:fontFamily="sans-serif"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="- This app does not promote any other applications."
+        android:fontFamily="sans-serif"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="- Ads shown to you are your personalized ads shown by google."
+        android:fontFamily="sans-serif"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="- This app has no payment feature."
+        android:fontFamily="sans-serif"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="- We do not pay anyone to use application."
+        android:fontFamily="sans-serif"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="- You agree to share your information mentioned in privacy policy."
+        android:fontFamily="sans-serif"/>
+  </LinearLayout>
+
+</ScrollView>

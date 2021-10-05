@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BD64E3</color>
+    <color name="colorPrimaryDark">#5B89C1</color>
+    <color name="colorAccent">#28CEE4</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+
+    <color name="transparent">#00000000</color>
+
+    <color name="semiWhite">#EFEFEF</color>
+    <color name="colorHighlight">#00f5d4</color>
+    <color name="semiBlack">#151515</color>
+
+    <color name="rating_yellow">#EDCE05</color>
+
+    <color name="dark_overlay">#2C000000</color>
+    <color name="theme_overlay">#60ffe100</color>
+
+    <color name="base_10">#ABC4FF</color>
+    <color name="base_8">#B3CAFF</color>
+    <color name="base_6">#C5D6FF</color>
+</resources>
